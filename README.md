@@ -53,7 +53,4 @@
 
         如：cat -n test.log |grep "debug"  >debug.txt
 
-作者：sumoonyoko
-链接：https://hacpai.com/article/1567662754560
-来源：黑客派
-协议：CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+摘自: https://hacpai.com/article/1567662754560
